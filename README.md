@@ -51,3 +51,8 @@ Now the binary images which were extracted and returned in array will be given t
 <p align="center">
   <img width="470" alt="a" src="https://user-images.githubusercontent.com/54681019/122273346-c52ae280-cefa-11eb-83a3-6804055c43e1.PNG">
 <p align="center">
+
+  
+> ## Authors
+> 👤 **Faizan Atif**
+> * Github: [@faizan387](https://github.com/faizan387)
